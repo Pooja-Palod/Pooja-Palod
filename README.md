@@ -16,7 +16,7 @@ I have following Technical Skills:
 ![](https://img.shields.io/badge/Deep%20Learning-NLP-orange)
 ![](https://img.shields.io/badge/Machine%20Learning-scikit--learn-orange)
 ![](https://img.shields.io/badge/Machine%20Learning-numpy-orange)
-![](https://img.shields.io/badge/Machine%20Learning-pandas-orange) <br/>
+![](https://img.shields.io/badge/Machine%20Learning-pandas-orange)
 ![](https://img.shields.io/badge/Code-Python-orange)
 ![](https://img.shields.io/badge/Tools-Git-orange)
 
